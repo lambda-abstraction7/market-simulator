@@ -1,10 +1,12 @@
-<img width="800" height="520" alt="ScreenRecording2026-05-25at11 55 45-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b5701368-2b1a-4ae6-971f-6667bd18f52a" />
+
 # CppTrader: Limit Order Book Simulator
 
 ![C++17](https://img.shields.io/badge/C++-17-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A high-performance C++ matching engine and algorithmic trading simulator. CppTrader models price-time priority limit/market order matching, realistic partial fills, real-time portfolio mark-to-market tracking, and strategy execution over historical OHLCV data.
+
+<img width="800" height="520" alt="ScreenRecording2026-05-25at11 55 45-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b5701368-2b1a-4ae6-971f-6667bd18f52a" />
 
 ---
 
